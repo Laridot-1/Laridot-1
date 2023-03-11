@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Laridot-1
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me benjaminiyke090@gmail.com
+Journey of a self-taught developer.
+
+ _My stacks_
+- HTML
+- CSS
+- JavaScript
+- Git && GitHub
+- Bootstrap
+- Linux 
+
+📫 How to reach me
+- Email: benjaminiyke090@gmail.com
+- LinkedIn: https://www.linkedin.com/in/benjamin-iyke
+
 
 <!---
 Laridot-1/Laridot-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
