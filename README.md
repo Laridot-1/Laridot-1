@@ -4,6 +4,7 @@ Journey of a self-taught developer.
 - HTML
 - CSS
 - JavaScript
+- React
 - Git && GitHub
 - Bootstrap
 - Linux 
