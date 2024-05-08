@@ -5,6 +5,7 @@ Journey of a self-taught developer.
 - CSS
 - JavaScript
 - React
+- Firebase
 - Git && GitHub
 - Bootstrap
 - Linux 
