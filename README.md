@@ -3,6 +3,7 @@ Journey of a self-taught developer.
  _My stacks_
 - HTML
 - CSS
+- Material UI
 - JavaScript
 - React
 - Firebase
