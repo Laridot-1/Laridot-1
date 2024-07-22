@@ -7,6 +7,8 @@ Journey of a self-taught developer.
 - JavaScript
 - React
 - Firebase
+- NodeJS && ExpressJS
+- MongoDB
 - Git && GitHub
 - Bootstrap
 - Linux 
